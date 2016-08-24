@@ -1,0 +1,22 @@
+{
+  "name": "contas-a-pagar-vuejs",
+  "version": "1.0.0",
+  "description": "Exercicio do Curso Laravel 3 com Vue.js",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/leowgweb-studies/contas-a-pagar-vuejs.git"
+  },
+  "author": "Lauro Guedes",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/leowgweb-studies/contas-a-pagar-vuejs/issues"
+  },
+  "homepage": "https://github.com/leowgweb-studies/contas-a-pagar-vuejs#readme",
+  "dependencies": {
+    "vue": "^1.0.26"
+  }
+}
